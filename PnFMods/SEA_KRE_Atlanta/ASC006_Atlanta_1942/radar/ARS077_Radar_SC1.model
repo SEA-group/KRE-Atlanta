@@ -1,0 +1,17 @@
+<ARS077_Radar_SC1.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_KRE_Atlanta/ASC006_Atlanta_1942/radar/lods/ARS077_Radar_SC1_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_KRE_Atlanta/ASC006_Atlanta_1942/radar/ARS077_Radar_SC1	</nodefullVisual>
+	<animation>
+		<name>	Rotation5rpm	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/Rotation5rpm	</nodes>
+	</animation>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation5rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ARS077_Radar_SC1.model>

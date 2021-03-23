@@ -1,0 +1,8 @@
+<ASC006_Atlanta_1942_Stern_lod1.model>
+	<extent>	15.0000	</extent>
+	<parent>	PnFMods/SEA_KRE_Atlanta/ASC006_Atlanta_1942/ship/lods/ASC006_Atlanta_1942_Stern_lod2	</parent>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_KRE_Atlanta/ASC006_Atlanta_1942/ship/lods/ASC006_Atlanta_1942_Stern_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASC006_Atlanta_1942_Stern_lod1.model>

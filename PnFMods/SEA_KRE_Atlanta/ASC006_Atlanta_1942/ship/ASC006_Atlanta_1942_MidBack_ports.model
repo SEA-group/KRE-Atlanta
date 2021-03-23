@@ -1,0 +1,12 @@
+<ASC006_Atlanta_1942_MidBack_ports.model>
+	<extent>	200.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	0.000000 0.954744 -1.271315	</min>
+		<max>	0.000000 0.954744 -1.271315	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_KRE_Atlanta/ASC006_Atlanta_1942/ship/ASC006_Atlanta_1942_MidBack_ports	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASC006_Atlanta_1942_MidBack_ports.model>

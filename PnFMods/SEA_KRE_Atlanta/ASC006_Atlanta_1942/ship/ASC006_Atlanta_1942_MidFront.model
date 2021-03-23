@@ -1,0 +1,13 @@
+<ASC006_Atlanta_1942_MidFront.model>
+	<extent>	6.0000	</extent>
+	<parent>	PnFMods/SEA_KRE_Atlanta/ASC006_Atlanta_1942/ship/lods/ASC006_Atlanta_1942_MidFront_lod1	</parent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<visibilityBox>
+		<min>	-0.548854 -0.439157 -0.669410	</min>
+		<max>	0.571459 2.198211 4.172172	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_KRE_Atlanta/ASC006_Atlanta_1942/ship/ASC006_Atlanta_1942_MidFront	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASC006_Atlanta_1942_MidFront.model>
