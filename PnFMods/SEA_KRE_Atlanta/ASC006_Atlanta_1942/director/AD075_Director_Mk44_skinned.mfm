@@ -1,11 +1,9 @@
 <AD075_Director_Mk44_skinned.mfm>
-	<fx>	shaders/materials/pbs/ship_material_skinned.fx	</fx>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/SEA_KRE_Atlanta/ASC006_Atlanta_1942/director/default_ao.dds	</Texture>
-	</property>
-	<property>	detailMap
-		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
 	</property>
 	<property>	diffuseMap
 		<Texture>	PnFMods/SEA_KRE_Atlanta/ASC006_Atlanta_1942/director/AD075_Director_Mk44_a.dds	</Texture>
@@ -15,23 +13,5 @@
 	</property>
 	<property>	normalMap
 		<Texture>	PnFMods/SEA_KRE_Atlanta/ASC006_Atlanta_1942/director/AD075_Director_Mk44_n.dds	</Texture>
-	</property>
-	<property>	g_detailAlbedoInfluence
-		<Float>	0.6000	</Float>
-	</property>
-	<property>	g_detailFadeDistance
-		<Float>	3.0000	</Float>
-	</property>
-	<property>	g_detailGlossInfluence
-		<Float>	1.0000	</Float>
-	</property>
-	<property>	g_detailNormalInfluence
-		<Float>	0.4000	</Float>
-	</property>
-	<property>	g_detailScaleU
-		<Float>	1.0000	</Float>
-	</property>
-	<property>	g_detailScaleV
-		<Float>	1.0000	</Float>
 	</property>
 </AD075_Director_Mk44_skinned.mfm>
