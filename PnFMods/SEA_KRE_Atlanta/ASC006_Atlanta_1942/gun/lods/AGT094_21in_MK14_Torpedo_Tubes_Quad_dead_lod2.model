@@ -1,7 +1,7 @@
 <AGT094_21in_MK14_Torpedo_Tubes_Quad_dead_lod2.model>
 	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/SEA_KRE_Atlanta/ASC006_Atlanta_1942/gun/lods/AGT094_21in_MK14_Torpedo_Tubes_Quad_dead_lod3	</parent>
-	<extent>	15.0000	</extent>
+	<extent>	25.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_KRE_Atlanta/ASC006_Atlanta_1942/gun/lods/AGT094_21in_MK14_Torpedo_Tubes_Quad_dead_lod2	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </AGT094_21in_MK14_Torpedo_Tubes_Quad_dead_lod2.model>
